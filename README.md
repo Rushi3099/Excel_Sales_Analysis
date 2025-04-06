@@ -4,9 +4,9 @@ Excel_Sales_Analysis
 Sales Report :
 Project objective:
 
-1. Create a [https://github.com/shubhambhogte01/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+1. Create a [https://github.com/Rushi3099/Excel_Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf]
 
-2. Conduct a comprehensive comparison between [https://github.com/shubhambhogte01/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+2. Conduct a comprehensive comparison between [https://github.com/Rushi3099/Excel_Sales_Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
