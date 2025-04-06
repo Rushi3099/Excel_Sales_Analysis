@@ -30,15 +30,15 @@ Excel_Sales_Analysis
 **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
- - [X]Proficiency in ETL methodology (Extract, Transform, Load).
- - [X]Skills to generate a date table using Power Query.
- - [X]Ability to derive fiscal months and quarters.
- - [X]Establishing data model relationships with Power Pivot.
- - [X]Proficiency in incorporating supplementary data into an existing data model.
- - [X]Utilizing DAX to create calculated columns.
+ - [X] Proficiency in ETL methodology (Extract, Transform, Load).
+ - [X] Skills to generate a date table using Power Query.
+ - [X] Ability to derive fiscal months and quarters.
+ - [X] Establishing data model relationships with Power Pivot.
+ - [X] Proficiency in incorporating supplementary data into an existing data model.
+ - [X] Utilizing DAX to create calculated columns.
  
 ## Soft Skills:
  - [X] Refined understanding of Sales & Finance Reports
- - [X]Designing user-centric reports with empathy in mind.
- - [X]Optimization of report generation through meticulous fine-tuning.
- - [X]Developing a systematic approach to devising a report building plan.
+ - [X] Designing user-centric reports with empathy in mind.
+ - [X] Optimization of report generation through meticulous fine-tuning.
+ - [X] Developing a systematic approach to devising a report building plan.
